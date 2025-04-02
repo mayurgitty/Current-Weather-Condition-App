@@ -56,6 +56,17 @@ Future Enhancements
 
     Implement a dark/light mode toggle.
 
+Install Dependency:
+
+    pip install customtkinter requests geopy
+    
+        OR
+        
+    pip install customtkinter
+    pip install requests
+    pip install geopy
+    
+
 Source Code:
 
 ![Screenshot 2025-04-02 142638](https://github.com/user-attachments/assets/7f28e957-0c7a-43d0-b719-1e7c3d06210c)
