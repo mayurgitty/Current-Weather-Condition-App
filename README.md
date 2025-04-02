@@ -55,3 +55,11 @@ Future Enhancements
     Allow users to save favorite cities.
 
     Implement a dark/light mode toggle.
+
+Source Code:
+
+![Screenshot 2025-04-02 142638](https://github.com/user-attachments/assets/7f28e957-0c7a-43d0-b719-1e7c3d06210c)
+
+Output:
+
+![Mayur's Weather App 02-04-2025 14_20_58](https://github.com/user-attachments/assets/e0a929bd-2f72-49a9-8693-a307b4b375d7)
